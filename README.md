@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- Typing animation -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=FUbuntu+Mono&size=38&pause=100&color=F78C6B&center=true&vCenter=true&width=440&lines=Hi+I'm+Baljir!;Full-Stack+Developer;JLPT+N2+Certified;Deploying+for+Japan"
+    alt="Typing SVG"
+  />
+</p>
 
-<!--
-**enii0719/enii0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 💼 Former Engineer & Business Manager in Japan 🇯🇵  
+- 💡 Experience installing LED servers at Japan’s biggest domes  
+- 🌱 Studying JLPT N1 + Advanced React/Next.js  
+- 🌐 Building learning platforms for Mongolian students in Japan  
+- 🎓 MBA + Mining Engineer + Full-Stack Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☕ Buy Me a Coffee
